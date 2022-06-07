@@ -6,3 +6,10 @@ Si quieres poner a prueba esta aplicación debes clonar el repositorio e instala
 ```
 npm install
 ``` 
+seguidamente, puedes escribir el comando:
+```
+npm run dev
+```
+esto lo que hace es correr la aplicación de next.js en el puerto 3000 puedes acceder a él mediante http://localhost:3000
+
+*Importante* Para que todo el proyecto se ejecute de forma idónea ser debe ejecutar el correspondiente backend de este proyecto 
